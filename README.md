@@ -38,6 +38,8 @@ pip install -r requirements.txt
 ```
 python src/main.py
 ```
+<img width="3455" height="2160" alt="image" src="https://github.com/user-attachments/assets/b55917da-85f1-4cca-a831-18f224fd15d4" />
+
 
 3. The GUI will display real-time data from your vehicle.
 
@@ -47,4 +49,4 @@ Feel free to contribute to this project by submitting issues or pull requests.
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License. CHEBOUT IBRAHIM RASSIM 
